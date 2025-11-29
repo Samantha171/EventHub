@@ -1,5 +1,9 @@
 # EventHub – Event Management System
 
+### Team Members
+- **SAMANTHA W** (23PW25)  
+- **SHREE SINDHIYA HARSHINI K** (23PW28)
+
 ## Overview
 EventHub is a database-driven Event Management System designed to manage event details, volunteers, participants, sponsors, registrations, venues, departments, contests, and finances.  
 The project focuses on strong backend design using SQL tables, relationships, stored procedures, triggers, and automated calculations.
