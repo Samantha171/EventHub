@@ -20,16 +20,19 @@ The project focuses on strong backend design using SQL tables, relationships, st
 
 ```
 eventhub/
-│── dbms/               # Django project (settings, URLs, WSGI)
-│── newapp/             # Main application (models, views, forms)
-│── templates/          # HTML templates (if used)
-│── migrations/         # Database migrations
-│── static/             # CSS, JS, images
-│── manage.py           # Django management file
+├── .idea/ # IDE project settings (PyCharm/VSCode)
+├── dbms/ # Main Django project folder
+│ ├── dbms/ # Django settings, URLs, WSGI
+│ ├── newapp/ # User-created Django app (models, views)
+│ ├── venv/ # Python virtual environment
+│ ├── db.sqlite3 # Development SQLite database (unused now)
+│ ├── manage.py # Django project manager
+│ ├── models.py # Additional model references / scripts
+├── main.py # Additional Python script (utility/custom)
+└── README.md # Project documentation
 ```
 
 ---
-
 
 ---
 
