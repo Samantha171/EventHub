@@ -62,7 +62,6 @@ eventhub/
 
 ## Technologies Used
 - **MySQL**
-- **SQL** (stored procedures & triggers)
 - **SQL Workbench**
 - **Draw.io** for ERD & DFD creation
 
