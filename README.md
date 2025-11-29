@@ -34,8 +34,6 @@ eventhub/
 
 ---
 
----
-
 ## Technologies Used
 - **MySQL**
 - **SQL** (stored procedures & triggers)
